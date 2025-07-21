@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+# 🎬 Advanced Movie Explorer App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive movie app built with **React.js** that allows users to browse, filter, and explore movies using a local JSON file. Features include search by title, rating filter, genre selection, and trailer viewing.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📦 Features
 
-### `npm start`
+- 🔍 Filter movies by title, rating, and genre
+- 🎥 Watch trailers via YouTube links
+- 🧾 View detailed movie info (poster, description, rating, genre)
+- ✅ Responsive layout and smooth hover animations
+- 💡 Data loaded from a local `movies.json` file
+- 💅 Styled with plain CSS for customization
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+| Layer    | Tech             |
+|----------|------------------|
+| Frontend | React.js (Hooks) |
+| Styling  | CSS              |
+| Data     | Static `movies.json` |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1. Clone the repo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/your-username/movie-app.git
+cd movie-app
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2. Install dependencies
 
-### `npm run eject`
+```bash
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 3. Start the app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
+## 📄 Sample Data (`movies.json`)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Stored in `/public/movies.json`, example:
 
-## Learn More
+```json
+ {
+    "id": "1",
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through dream-sharing.",
+    "posterURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRyuWmayVBvqjd1MxTKpRgauq2cCtUzb7Q9QvaFTkAuxAU_EYMoCE3wBuJeftxIzf0grreIw",
+    "rating": 4.8,
+    "genre": ["Sci-Fi", "Action"],
+    "trailerURL": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "createdAt": "2025-07-01T12:00:00Z"
+  }
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🧠 Learning Goals
 
-### Code Splitting
+This app was built to practice:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* React Hooks (`useState`, `useEffect`)
+* Component structure and prop flow
+* Conditional filtering and search logic
+* Clean UI layout and state updates
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 👤 Author
 
-### Making a Progressive Web App
+**Aya Othmen**
+🟦 [LinkedIn](https://www.linkedin.com/in/aya-othmen)
+💼 [GitHub](https://github.com/aya-othmen7)
+📫 [aya.othmennn@gmail.com](mailto:aya.othmennn@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
