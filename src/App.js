@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import MovieList from './components/MovieList';
 import Filter from './components/Filter';
 import './App.css';
+import AddMovieModal from './components/AddMovieModal';
 
 function App() {
   const [movies, setMovies] = useState([]);
@@ -38,7 +39,8 @@ function App() {
         setRatingFilter={setRatingFilter}
         genreFilter={genreFilter}
         setGenreFilter={setGenreFilter}
-      />
+      />        
+      <AddMovieModal onAdd={(movie) => setMovies([...movies, movie])} />
       <MovieList movies={filteredMovies} />
     </div>
   );
