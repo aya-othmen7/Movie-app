@@ -14,7 +14,7 @@
     "title": "The Matrix",
     "description": "A computer hacker learns the nature of his reality and his role in the war.",
     "posterURL": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
-    "rating": 4.7,
+    "rating": 2.7,
     "genre": ["Sci-Fi", "Action"],
     "trailerURL": "https://www.youtube.com/watch?v=9ix7TUGVYIo&pp=0gcJCfwAo7VqN5tD",
     "createdAt": "2025-07-02T12:00:00Z"
@@ -34,7 +34,7 @@
     "title": "The Dark Knight",
     "description": "Batman faces the Joker, a criminal mastermind wreaking havoc on Gotham.",
     "posterURL": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.9,
+    "rating": 3.9,
     "genre": ["Action", "Drama"],
     "trailerURL": "https://www.youtube.com/watch?v=EXeTwQWrcwY&pp=0gcJCfwAo7VqN5tD",
     "createdAt": "2025-07-04T12:00:00Z"
@@ -44,7 +44,7 @@
     "title": "Avatar",
     "description": "A marine on an alien planet finds himself torn between two worlds.",
     "posterURL": "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_.jpg",
-    "rating": 4.2,
+    "rating": 2,
     "genre": ["Sci-Fi", "Adventure"],
     "trailerURL": "https://www.youtube.com/watch?v=d9MyW72ELq0&pp=0gcJCfwAo7VqN5tD",
     "createdAt": "2025-07-05T12:00:00Z"
