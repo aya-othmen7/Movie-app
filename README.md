@@ -12,6 +12,7 @@ An interactive movie app built with **React.js** that allows users to browse, fi
 - ✅ Responsive layout and smooth hover animations
 - 💡 Data loaded from a local `movies.json` file
 - 💅 Styled with plain CSS for customization
+- 🪟 View detailed movie info in a modal popup
 
 ---
 
