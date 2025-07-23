@@ -6,7 +6,7 @@
     "posterURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRyuWmayVBvqjd1MxTKpRgauq2cCtUzb7Q9QvaFTkAuxAU_EYMoCE3wBuJeftxIzf0grreIw",
     "rating": 4.8,
     "genre": ["Sci-Fi", "Action"],
-    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "trailerURL": "https://www.youtube.com/embed/YoHD9XEInc0?si=PBicM8UobPT7YLAp",
     "createdAt": "2025-07-01T12:00:00Z"
   },
   {
@@ -16,7 +16,7 @@
     "posterURL": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
     "rating": 2.7,
     "genre": ["Sci-Fi", "Action"],
-    "trailer": "https://www.youtube.com/watch?v=9ix7TUGVYIo&pp=0gcJCfwAo7VqN5tD",
+    "trailerURL": "https://www.youtube.com/embed/9ix7TUGVYIo?si=3q8W-x96EjtuJsb1",
     "createdAt": "2025-07-02T12:00:00Z"
   },
   {
@@ -26,7 +26,7 @@
     "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zt0lp-O3XdL8zzdrEvyzmcl6kOwfgbv4xQ&s",
     "rating": 4.9,
     "genre": ["Sci-Fi", "Drama"],
-    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "trailerURL": "https://www.youtube.com/embed/zSWdZVtXT7E?si=phMYaVJF7jvSQ5as",
     "createdAt": "2025-07-03T12:00:00Z"
   },
   {
@@ -36,7 +36,7 @@
     "posterURL": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.9,
     "genre": ["Action", "Drama"],
-    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY&pp=0gcJCfwAo7VqN5tD",
+    "trailerURL": "https://www.youtube.com/embed/EXeTwQWrcwY?si=6O6X8RLTT0pOzEhH",
     "createdAt": "2025-07-04T12:00:00Z"
   },
   {
@@ -46,7 +46,7 @@
     "posterURL": "https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_.jpg",
     "rating": 2,
     "genre": ["Sci-Fi", "Adventure"],
-    "trailer": "https://www.youtube.com/watch?v=d9MyW72ELq0&pp=0gcJCfwAo7VqN5tD",
+    "trailerURL": "https://www.youtube.com/embed/d9MyW72ELq0?si=_QtSRL51BOYkW9vj",
     "createdAt": "2025-07-05T12:00:00Z"
   }
 ]
